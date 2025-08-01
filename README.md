@@ -1,2 +1,2 @@
 # Restaurante-Senai-ADS
-Cardápio Restaurante da Vovó (Senai ADS)
+Cardápio Restaurante Sabor da Vovó (Senai ADS)
